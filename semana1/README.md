@@ -1,6 +1,6 @@
 # Projeto CodeJobs
 CodeJobs é uma plataforma gameficada para aprendizado online. Onde conhecimento gera recrutamento de qualidade.
-> Programar é para todas :space_invider:
+> Programar é para todas :space_invader:
 
 ### Saiba mais sobre o projeto
 
