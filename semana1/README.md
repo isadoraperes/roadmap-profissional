@@ -15,7 +15,6 @@ O curso foi realizado durante o mês de julho de 2019. E sua conclusão foi real
 - [x] Python
 - [x] Conceitos de POO
 - [x] Conceitos de Banco de Dados
-- [x] API rest
 - [x] Conceitos de métodos HTTP
 - [x] Conceito de status HTTP
 - [x] Framework Django
