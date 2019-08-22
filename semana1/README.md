@@ -9,18 +9,18 @@ O projeto foi desenvolvido para encerramento do curso de fullstack da Estação 
 O curso foi realizado durante o mês de julho de 2019. E sua conclusão foi realizada 22 de agosto de 2019, com a apresentação de um Pitch sobre nossa plataforma.
 
 ## Tecnologias abordadas
-    - [x] HTML5
-    - [x] CSS3
-    - [x] Git e Github
-    - [x] JavaScript
-    - [x] Manipulação de DOM
-    - [x] Python
-    - [x] Conceitos de POO
-    - [x] Conceitos de Banco de Dados
-    - [x] API rest
-    - [x] Conceitos de métodos HTTP
-    - [x] Conceito de status HTTP
-    - [x] Framework Django
+- [x] HTML5
+- [x] CSS3
+- [x] Git e Github
+- [x] JavaScript
+- [x] Manipulação de DOM
+- [x] Python
+- [x] Conceitos de POO
+- [x] Conceitos de Banco de Dados
+- [x] API rest
+- [x] Conceitos de métodos HTTP
+- [x] Conceito de status HTTP
+- [x] Framework Django
 
 O projeto está no repositório @projeto-demoday, pois foi desenvovlido em grupo. Para acessá-lo, [clique aqui](https://github.com/isadoraperes/projeto-demoday) :octocat:
 
