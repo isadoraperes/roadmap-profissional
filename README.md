@@ -19,18 +19,18 @@ Repositório para adicionar os projetos e atividades trabalhadas durante o roadm
       * [x] Consolidar rotas e diferença entre redirect e request
       * [x] Utilizar template tags da melhor maneira
       * [x] Inserir conceitos e práticas de acessibilidade
-      * [ ] Utilizar css-grid para responsividade
-      * [ ] Realizar interatividade usando Javascript
+      * [x] Utilizar css-grid para responsividade
+      * [x] Realizar interatividade usando Javascript
       
      - Web services RESTful com Spring framework e JPA :pushpin:
      - [Acesse o README.md file](https://github.com/isadoraperes/roadmap-profissional) :octocat:
-        * [ ] Criar e configurar ambiente de desenvolvimento Spring
+        * [x] Criar e configurar ambiente de desenvolvimento Spring
         
   - Semana 3
     - Web services RESTful com Spring framework e JPA :pushpin:
     - [Acesse o README.md file](https://github.com/isadoraperes/roadmap-profissional) :octocat:
-       * [ ] Consolidar padrão de projeto Data Access Object
-       * [ ] Aprender sobre e criar camada de Serviço
+       * [x] Consolidar padrão de projeto Data Access Object
+       * [x] Aprender sobre e criar camada de Serviço
     
   - Semana 4
     - Web services RESTful com Spring framework e JPA :pushpin:
